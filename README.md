@@ -1,4 +1,5 @@
-<h3>AI Drug Price Prediction and Recommendation System in Bangladesh </h3>
+<h3>AI-Based Drug Price Prediction and Recommendation System
+for Bangladesh </h3>
 
 ----------
 Muhammad Mahdi<br>
