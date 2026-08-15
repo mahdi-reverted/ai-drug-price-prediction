@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Machine learning models
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
